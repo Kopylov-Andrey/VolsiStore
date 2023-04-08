@@ -1,0 +1,20 @@
+[
+  {
+    "model": "products.productcategory",
+    "pk": 1,
+    "fields":
+    {
+      "name": "Слингобусы",
+      "description": "Детские бусы из можевельника"
+    }
+  },
+  {
+    "model": "products.productcategory",
+    "pk": 2,
+    "fields":
+    {
+      "name": "Силиконовые бусины",
+      "description": ""
+    }
+  }
+]

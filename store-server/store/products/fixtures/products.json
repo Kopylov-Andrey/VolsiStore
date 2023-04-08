@@ -1,0 +1,79 @@
+[
+  {
+    "model": "products.product",
+    "pk": 1,
+    "fields": {
+      "name": "Облако",
+      "description": "Blue",
+      "size": "little",
+      "price": "50.00",
+      "quantity": 1,
+      "image": "products_images/cloud1.1.png",
+      "category": 2
+
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 2,
+    "fields": {
+      "name": "Облако",
+      "description": "Yellow",
+      "size": "little",
+      "price": "50.00",
+      "quantity": 3,
+      "image": "products_images/cloud1.2.png",
+      "category": 2
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 3,
+    "fields": {
+      "name": "Облако",
+      "description": "White",
+      "size": "little",
+      "price": "50.00",
+      "quantity": 1,
+      "image": "products_images/cloud1.5.png",
+      "category": 2
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 4,
+    "fields": {
+      "name": "Облако",
+      "description": "Pink",
+      "size": "little",
+      "price": "50.00",
+      "quantity": 4,
+      "image": "products_images/cloud1.3.png",
+      "category": 2
+    }
+  },
+  {"model": "products.product",
+    "pk": 5,
+    "fields": {
+      "name": "Облако",
+      "description": "Grey",
+      "size": "little",
+      "price": "50.00",
+      "quantity": 1,
+      "image": "products_images/cloud1.6.png",
+      "category": 2
+    }
+  },
+  {"model": "products.product",
+    "pk": 6,
+    "fields": {
+      "name": "Облако",
+      "description": "Green",
+      "size": "little",
+      "price": "50.00",
+      "quantity": 1,
+      "image": "products_images/cloud1.4.png",
+      "category": 2
+    }
+  }
+]

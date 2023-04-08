@@ -1,0 +1,69 @@
+*
+    margin: 0
+    padding: 0
+    box-sizing: border-box
+.body 
+    font-family: "Roboto", sans-serif
+    font-weight: 400
+    color: #777
+    font-size: 16px
+    letter-spacing: 2px
+    background-color: white
+    
+.header 
+    height: 100vh
+    background: url(../img/volsicut.png) center / cover no-repeat 
+    &__boxH1
+        position: absolute
+        top: 15%
+        left: 50%
+        transform: translate(-50%, -50%)
+        width: 100%
+        text-align: center
+       
+         
+
+.image-logo
+    animation-name: leftToRight
+    animation-duration:  1s
+    animation-timing-function: ease
+    
+    
+  
+.title-first
+    font-weight: 800
+    font-size: 20px
+    line-height: 10px
+    letter-spacing: 2px
+    color: rgb(0, 0, 0)
+    animation-name: RightToleft
+    animation-duration:  1s
+    animation-timing-function: ease
+
+.btn
+    &:link, &:visited
+        text-transform: uppercase
+        text-decoration: none
+        
+    
+
+
+@keyframes leftToRight 
+    0%
+        opacity: 0
+        transform: translateX(-100px)   
+    100%
+        opacity: 1
+        transform: translateX(0px)
+
+
+
+@keyframes RightToleft
+    0%
+        opacity: 0
+        transform: translateX(100px)   
+    100%
+        opacity: 1
+        transform: translateX(0px)
+
+    
