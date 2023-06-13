@@ -1,1 +1,71 @@
-<mxfile host="app.diagrams.net" modified="2023-04-06T23:24:41.735Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 YaBrowser/23.1.4.777 Yowser/2.5 Safari/537.36" etag="3R8dPUJcUy4wj0vVlpvw" version="21.0.7" type="device"><diagram name="Страница 1" id="scML3tuzyfTZhAXiNeiY">7VrbcuMoEP0aPdoloYulxziX2am5ZTe7ldmnKWwRmRlZKAjHVr5+wALdo8iJHasmTh4sDg000JymAc08X24+UBgvvhAfhRrQ/Y1mXmgAGI7l8B+BpBli2SADAop9KVQAN/gRSVCX6Ar7KKkIMkJChuMqOCdRhOasgkFKyboqdkfCaqsxDFADuJnDsIneYp8tMtQFkwL/C+FgoVo2HC/LWUIlLHuSLKBP1iXIvNTMc0oIy76Wm3MUisFT45KVu3oiN1eMooj1KTD69vf0gdzSNbu3Phg/6Mq7vRnJ2UlYqjqMfN5/mSSULUhAIhheFuiUklXkI1GrzlOFzGdCYg4aHPyJGEvlZMIVIxxasGUoc7nCNP0uy28T/4vEeDJxFXCxKWdfpCq1wey7qoV/Z+WALZNFKZFIy1VcI4qXiCGag/6ZMA+evPznEVHyL/kCozTLucJhKOUSBikrJJcw8r9FSGWUBLOBFKP35PxIKCErOkcdk6Jsn7cQINYhOMnNiK8/RHj/aMrLURRChh+qikC5EIJcLi96TTBXEehq0Zqy/VQtYjC2q5VkXZDlyjZXr8pzx7btFX92pWZguGNgVavOOt2omk8BTEtisRBIOjrh1Dphm92a1uU9vVMe6K+Tb6zWurzZKc8/shFRqZIBFNCWAXZgA0PaygMMV9J6jssPY123qxzhOuZzHPEmyz1nIq6iW2EjY+J20xFP1NXbI3lMenKH+0ruKFni7oY2abEzJ+TqTn38ULE3534lHOR0RjajBD/iKNDMsxmhPqIjjvGcdeaWzwyxwoS1zOD8V7A1Qo5qwESW+OcZMfT9rAIQb7ajrmrnX4H4vabEX80Fr2Ta8M5tFcpyFcrgjGvXpmVDlzsSMaE3EiBa1hrV53yscq1K9YCGVBLDeV1Kb3YgV3FG+I6rDtIG4uc9/6SwWUOKj0Ih2Cz68WLHogJsqtKh3ItV+wqX6K1UKZCrT8bu4DM9wUuxUW1UcIGSOcUxwyRqZsYUz1vK3K9gFGKWNnPOIUMBoW05JCS0Cd98fGxpYBek/6wIsM2qBZ4tSIXXPNYDogzzHf1ZiIOIQ0y4oSmUqRDdiVKES92FW9q/27J82SGtF5ihG74CRY1rHujkzYi60aabtJsk+4SPV7ujdRFoGK4UWZSDDLVX2TsvuwPl5SlMfnFv9o5ZuTcHH5lxzyniJOLvV5v+hNpTy/8S1MJm0vufqAkA266FNyp8eY6bvENRkwGGF5sArXp+YeQSg4lNTK1yUmKok5OjxCbeG8UmLzoxsCZVkzf1SWeEXpc3HOvwEbo3UAddJtSTex6ue17xeTpcUPRM41eYJuxHVGq+0P8z5FlfW7PQEuKwCccwSdbcnps5lVjpPXtxUPPiwO3pxfMj4P27cX2gDFaPfU8sNlwWa+eJo3BaywHMe2acUf0axTx63GAPL27IrzDknYaVBxKDiBv0sbioK8cNlnbEqMGweoYNe7kOfe1FowkqYcCz8uoQ8LAXe9ZQvW75XPnkcofrcrcT9cQG/SiOdx9q/Pn+1+x7bnewKwXDGSj1bF31iXkGzzxinp4gnldtvk8c9FYc1PfUYXIwDmp7b3LEGGAkggBHqwQB3vCCANfRKkFA/tDpOGGA85ZhQHPfbngVq7b0mrX2fRMJLKO6PIxaRft6AdlQ2OsOTGr3GbvKA/nU+4WBDE8Wb6Ez8eJFuXn5Gw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-06-12T18:24:41.086Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 YaBrowser/23.5.1.714 Yowser/2.5 Safari/537.36" etag="I-Le3kcJNZRsGpn6OtH4" version="21.2.1" type="device">
+  <diagram name="Страница 1" id="scML3tuzyfTZhAXiNeiY">
+    <mxGraphModel dx="1877" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-OQBvoWrwtq4G1_ru9WS-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.778;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryPerimeter=0;endArrow=ERzeroToMany;endFill=0;startArrow=ERmandOne;startFill=0;" parent="1" source="-OQBvoWrwtq4G1_ru9WS-10" target="-OQBvoWrwtq4G1_ru9WS-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="162.5" as="sourcePoint" />
+            <mxPoint x="198.55999999999995" y="218.24" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="153" />
+              <mxPoint x="160" y="190" />
+              <mxPoint x="200" y="190" />
+              <mxPoint x="200" y="220" />
+              <mxPoint x="230" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-OQBvoWrwtq4G1_ru9WS-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.005;entryY=0.863;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=ERzeroToMany;endFill=0;startArrow=ERmandOne;startFill=0;exitX=1.008;exitY=0.178;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="-OQBvoWrwtq4G1_ru9WS-7" target="-OQBvoWrwtq4G1_ru9WS-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-OQBvoWrwtq4G1_ru9WS-7" value="&lt;div style=&quot;box-sizing:border-box;width:100%;background:#e4e4e4;padding:2px;&quot;&gt;Products&lt;/div&gt;&lt;table style=&quot;width:100%;font-size:1em;&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;br&gt;&lt;/td&gt;&lt;td&gt;ID&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;Name&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;br&gt;FK1&lt;br&gt;FK1&lt;br&gt;FK1&lt;/td&gt;&lt;td&gt;image&lt;br&gt;Description&lt;br&gt;price&lt;br&gt;quanlity&lt;br&gt;Category&lt;br&gt;Color&lt;br&gt;SIze&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="230" y="95" width="180" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="-OQBvoWrwtq4G1_ru9WS-8" value="&lt;div style=&quot;box-sizing:border-box;width:100%;background:#e4e4e4;padding:2px;&quot;&gt;Basket&lt;/div&gt;&lt;table style=&quot;width:100%;font-size:1em;&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;ID&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;Created&lt;br&gt;Quantity&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK1&lt;br&gt;FK1&lt;br&gt;&lt;/td&gt;&lt;td&gt;User&lt;br&gt;Product&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="550" y="100" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="-OQBvoWrwtq4G1_ru9WS-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.002;entryY=0.711;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=ERzeroToMany;endFill=0;startArrow=ERmandOne;startFill=0;exitX=1.003;exitY=0.211;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="-OQBvoWrwtq4G1_ru9WS-9" target="-OQBvoWrwtq4G1_ru9WS-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="307" />
+              <mxPoint x="470" y="178" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-OQBvoWrwtq4G1_ru9WS-9" value="&lt;div style=&quot;box-sizing:border-box;width:100%;background:#e4e4e4;padding:2px;&quot;&gt;User&lt;/div&gt;&lt;table style=&quot;width:100%;font-size:1em;&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;ID&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;userName&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;First_name&lt;br&gt;Last_Name&lt;br&gt;email&lt;br&gt;password&lt;br&gt;image&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="250" y="280" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="-OQBvoWrwtq4G1_ru9WS-10" value="&lt;div style=&quot;box-sizing:border-box;width:100%;background:#e4e4e4;padding:2px;&quot;&gt;Category&lt;/div&gt;&lt;table style=&quot;width:100%;font-size:1em;&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;ID&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;Name&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;Description&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-60" y="130" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-OQBvoWrwtq4G1_ru9WS-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.003;entryY=0.842;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=ERzeroToMany;endFill=0;startArrow=ERmandOne;startFill=0;exitX=0.995;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="-OQBvoWrwtq4G1_ru9WS-14" target="-OQBvoWrwtq4G1_ru9WS-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="324" />
+              <mxPoint x="160" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-OQBvoWrwtq4G1_ru9WS-14" value="&lt;div style=&quot;box-sizing:border-box;width:100%;background:#e4e4e4;padding:2px;&quot;&gt;Color&lt;/div&gt;&lt;table style=&quot;width:100%;font-size:1em;&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;ID&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;Color_Name&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-60" y="300" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-OQBvoWrwtq4G1_ru9WS-16" value="&lt;div style=&quot;box-sizing:border-box;width:100%;background:#e4e4e4;padding:2px;&quot;&gt;Size&lt;/div&gt;&lt;table style=&quot;width:100%;font-size:1em;&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;ID&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;Size_Name&lt;br&gt;Description&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-60" y="380" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-OQBvoWrwtq4G1_ru9WS-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.006;entryY=0.942;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=ERzeroToMany;endFill=0;startArrow=ERmandOne;startFill=0;exitX=0.986;exitY=0.408;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="-OQBvoWrwtq4G1_ru9WS-16" target="-OQBvoWrwtq4G1_ru9WS-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="119" y="400" as="sourcePoint" />
+            <mxPoint x="241" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="119" y="409" />
+              <mxPoint x="170" y="409" />
+              <mxPoint x="170" y="246" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

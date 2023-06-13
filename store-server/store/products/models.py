@@ -1,4 +1,6 @@
 from django.db import models
+
+from users.models import User
 # import os
 # os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'store.settings')
 # import django
@@ -25,3 +27,35 @@ class Product(models.Model):
 
      def __str__(self):
         return self.name + ', ' + self.description
+
+class BasketQuerySet(models.QuerySet):
+    def total_sum(self):
+        return sum(basket.sum() for basket in self)
+
+    def total_quantity(self):
+        return sum(basket.quantity for basket in self)
+
+
+class Basket(models.Model):
+    user = models.ForeignKey(to=User, on_delete=models.CASCADE)
+    products = models.ForeignKey(to=Product, on_delete=models.CASCADE)
+    quantity = models.PositiveSmallIntegerField(default=0)
+    created_timestamp = models.DateTimeField(auto_now_add=True)
+
+    objects = BasketQuerySet.as_manager()
+
+    def __str__(self):
+        return f'Корзина для {self.user.username} | Продукт: {self.products.name}'
+
+    def sum(self):
+        return self.products.price * self.quantity
+
+
+
+
+
+
+
+
+
+

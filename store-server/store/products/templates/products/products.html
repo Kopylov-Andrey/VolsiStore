@@ -72,6 +72,9 @@
                             <h5>{{product.price}},00 руб.</h5>
                         </div>
                         <div class="card-footer text-center">
+                             <a class="btn btn-outline-success" href="{% url 'products:basket_add' product.id %}">
+                                Отправить в корзину
+                            </a>
                             <button type="button" class="btn btn-outline-success">Отправить в корзину</button>
                         </div>
                     </div>
