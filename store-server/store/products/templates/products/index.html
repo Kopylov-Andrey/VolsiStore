@@ -8,12 +8,11 @@
 
 
  {% block content %}
-    <div class="container">
+    <div >
             <header class="header">
                 <div class="header__boxH1">
                     <img class="image-logo" src="{%static 'vendor/img/icon/logo.png'%}" alt="Логотип Volsi">
                     <h1 class="title-first">Магазин детских товаров</h1>
-                    <h2 class="title-first">Sale</h2>
                     <button id="start-purchase-btn" type="button" class="btn btn-lg">
                         <a id="start-purchase-link" href="{% url 'products:index'%}">
                             Начать покупки
